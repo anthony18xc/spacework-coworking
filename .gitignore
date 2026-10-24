@@ -1,0 +1,16 @@
+# Backend
+backend/target/
+*.class
+*.log
+# Frontend
+frontend/node_modules/
+frontend/dist/
+# IDE / SO
+.idea/
+.vscode/
+*.iml
+.DS_Store
+.env
+# Ayudas locales (no se versionan)
+git-evidencia.sh
+COMANDOS_GIT.md
